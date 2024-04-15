@@ -1,0 +1,28 @@
+------för att initialisera ett nytt proejkt------
+(-y get standard svar på alla val)
+
+# npm init -y
+
+
+------ för att installera en Dependency ---------
+# npm i <dependency>
+
+------ för att installera en DevDependency ---------
+# npm i -D <dependency>
+# (tex nodemon)
+#npm i -D nodemon
+
+
+------ för att köra ett script (dessa hittar du i package.json) -------
+# npm run <script>
+
+
+npm i express mongoose
+
+npm i mongoose dotenv
+
+
+
+
+Avsluta process
+Ctrl + C
